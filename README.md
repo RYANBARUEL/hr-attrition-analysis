@@ -27,13 +27,13 @@ An interactive **Power BI dashboard** was built to support HR decision-making an
 
 - Interactive slicers for Department, Business Travel, Over Time, and Job Role  
 
-(
+
 <img 
      width="1366"
      height="768"
      alt="image" 
      src="https://github.com/user-attachments/assets/6cba8ee7-9f23-49b0-a6fd-3e1b5ec2f1dc" />
-)
+
 ---
 
 ## Tools Used

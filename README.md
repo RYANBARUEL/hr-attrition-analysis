@@ -3,7 +3,6 @@
 ## Overview
 
 This project analyzes sales transaction data to evaluate revenue performance, product trends, and geographic distribution. 
-
 The dashboard provides clear visibility into business performance and supports data-driven sales and strategy decisions.
 
 ---
@@ -11,11 +10,8 @@ The dashboard provides clear visibility into business performance and supports d
 ## Business Questions
 
 - What are the overall sales and revenue trends?
-- 
 - Which products and deal sizes generate the highest revenue?
-- 
 - Which countries or regions contribute most to sales?
-- 
 - How is revenue distributed across product lines?
 
 ---
@@ -23,11 +19,8 @@ The dashboard provides clear visibility into business performance and supports d
 ## Tools Used
 
 - SQL
-  
 - Power BI
-  
 - DAX
-  
 - Excel / CSV
 
 ---
@@ -35,11 +28,8 @@ The dashboard provides clear visibility into business performance and supports d
 ## Key KPIs
 
 - Total Revenue
-  
 - Total Sales
-  
 - Average Deal Size
-  
 - Number of Orders
 
 ---
@@ -47,25 +37,22 @@ The dashboard provides clear visibility into business performance and supports d
 ## Dashboard Highlights
 
 - **Revenue Trend Over Time**
-  
 - **Revenue by Product Line**
-  
 - **Sales Distribution by Country**
-  
 - **Deal Size Analysis**
-  
 - **Interactive filters for Product Line, Country, and Deal Size**
+
+(<img src="https://github.com/user-attachments/assets/ce58a047-2302-467b-a9d4-2fc207c47119" 
+     alt="Sales Performance Dashboard" 
+     width="1366">)
 
 ---
 
 ## Key Insights
 
 - Certain product lines consistently generate higher revenue.
-  
 - Sales performance varies significantly by country and region.
-  
 - Larger deal sizes contribute disproportionately to total revenue.
-  
 - Revenue trends reveal peak sales periods useful for planning and forecasting.
 
 ---
@@ -79,5 +66,4 @@ This dashboard helps stakeholders monitor sales performance, identify high-perfo
 ## Author
 
 **Ryan Tañajura Baruel**  
-
 Aspiring Data Analyst | Excel • SQL • Power BI  
